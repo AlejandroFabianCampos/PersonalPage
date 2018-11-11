@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    background-image: url(src/computerBackground.gif);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+
+h1 {
+    width: 70vw;
+    margin-left: 3vw;
+    font-size: 6vh;
+}
+
+h3 {
+    text-align: justify;
+    width: 70vw;
+    font-size: 5vh;
+}
+
+.sectionBlock {
+    padding: 7em;
+    height: calc(100vh - 14em);
+}
+
+.section-2 {   
+    color: #D8BF00;
+    background: rgba(75, 59, 71, 0.95);
+}
+
+.section-1 {   
+    color: #961B3E;
+    background: rgba(255, 253, 253, 0.95);
+}
+
+
+
